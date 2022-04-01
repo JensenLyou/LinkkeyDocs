@@ -37,7 +37,7 @@
             "shortcut": "assets/img/favicon.ico"
         },
         "insert-logo": {
-            "url": "assets/img/linkkey_logo.png",
+            "url": "/assets/img/linkkey_logo.png",
             "style": "max-height: 60px; min-height: 60px; border-radius:16px;box-shadow: 0 6px 12px rgb(0 0 0 / 18%);"
         },
         "github": {
