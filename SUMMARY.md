@@ -1,13 +1,12 @@
+# Table of contents
 
-# Summary
+* [Welcome to the Linkkey DAO](README.md)
 
-## Welcome to Linkkey DAO
+## 💻 Technical Documentation
 
-## Technical Documentation
+* [API Documentation](API\_Documentation/README.md)
 
-* [API Documentation](API_Documentation/README.md)
-
-## About SNS-APP
+## 🧐 About SNS-APP
 
 * [Registration Tutorial](AboutSNS/registerTutorial.md)
 * [FAQ](AboutSNS/FAQ.md)
