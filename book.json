@@ -18,10 +18,10 @@
         "insert-logo",
         "sharing-plus",
         "github",
-        "theme-comscore"
+        "my-toolbar"
     ],
-    "variables": {
-        "links": {}
+    "styles": {
+        "website": "./assets/css/websiteStyle.css"
     },
     "pluginsConfig": {
         "hide-element": {
@@ -45,6 +45,34 @@
         },
         "sharing-plus": {
             "twitter": true
+        },
+        "my-toolbar": {
+            "buttons": [
+                {
+                    "label":"sns-app",
+                    "text": "SNS-APP",
+                    "icon": "fa",
+                    "url": "https://sns.chat/"
+                },
+                {
+                    "label":"linkkey",
+                    "text": "Linkkey",
+                    "icon": "fa",
+                    "url": "https://www.linkkey.io/"
+                },
+                {
+                    "label":"twitter",
+                    "text": " ",
+                    "icon": "fa fa-twitter",
+                    "url": "https://twitter.com/LinkkeyOfficial"
+                },
+                {
+                    "label":"telegram",
+                    "text": " ",
+                    "icon": "fa fa-paper-plane",
+                    "url": "https://t.me/linkkeydao"
+                }
+            ]
         }
     }
 }
