@@ -43,8 +43,8 @@
 }
 
 /* copy button styles */
-.copy-code-button {
-    background-color: #ea6060;
+.markdown-section .copy-code-button {
+    background-color: #ea6060 !important;
 }
 
 /* page inner menu */
